@@ -22,3 +22,7 @@ A closed figure with three sides is called a Triangle. It has three vertex, side
 <img width="577" alt="Congruence_Triangles-2_3" src="https://github.com/user-attachments/assets/a96dea68-e2a2-459a-b82a-66640d18c0f6">
 <img width="577" alt="Congruence_Triangles-2_4" src="https://github.com/user-attachments/assets/b308826b-b755-40a9-9e5f-56178a48dfe7">
 
+
+```
+AMARA SRAVAN GOPAL
+```
